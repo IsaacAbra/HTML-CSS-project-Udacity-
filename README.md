@@ -6,4 +6,4 @@ HTML
 CSS
 
 # How to use
-Download this file and right click on the HTML file within it. THe last step is to hold your laugh and "aws" as you look at Jon.
+Download this file and right click on the HTML file within it. The last step is to hold your laughs and "aws" as you look at Jon.
