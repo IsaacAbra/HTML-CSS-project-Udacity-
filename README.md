@@ -4,3 +4,6 @@ A little project that I had to make to put my CSS/HTML skills to the test and cr
 ## Technologies Used
 HTML
 CSS
+
+# How to use
+Download this file and right click on the HTML file within it. THe last step is to hold your laugh and "aws" as you look at Jon.
